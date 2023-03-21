@@ -6,6 +6,6 @@
   "author": "alter095 <ichaos.toryi203@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "zenn-cli": "^0.1.95"
+    "zenn-cli": "^0.1.141"
   }
 }
